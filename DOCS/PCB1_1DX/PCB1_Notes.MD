@@ -11,6 +11,8 @@ NXP SDK Sources have these 5 'chips' called out for function
 Need to find one that is closest workalike to the 1DX
 
 Murata NXP i.MX Eval Platforms
+
 https://www.mouser.com/new/murata/ea-nxp-wifi-bluetooth-i-mx/
+
 There is a evkmimxrt1060_wiced_ble_4343W demo in RT1060 SDK2.7.0. The demo configures the wifi driver to use STA mode and
 advertises via BLE. Please take a look.
