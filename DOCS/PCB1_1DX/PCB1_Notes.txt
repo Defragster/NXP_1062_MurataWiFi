@@ -1,4 +1,11 @@
 1DX uses the CYW4343W :: Same as in Arduino GIGA
 
 
-while 1YN uses CYW43439
+while 1YN uses CYW43439 > This is the other chip on hand for the post GIGA recommended chip
+
+NXP SDK Sources have these 5 'chips' called out for function
+#if defined(SD8978) || defined(SD8987) || defined(SD8801)
+#if !defined(SD8801)
+#ifndef RW610
+
+Need to find one that is closest workalike to the 1DX
