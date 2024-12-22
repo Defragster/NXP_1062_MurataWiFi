@@ -1,0 +1,4 @@
+1DX uses the CYW4343W :: Same as in Arduino GIGA
+
+
+while 1YN uses CYW43439
