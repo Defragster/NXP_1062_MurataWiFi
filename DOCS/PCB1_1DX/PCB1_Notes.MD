@@ -24,3 +24,7 @@ Note that as of January 2020 the NXP SDK (2.7.0) includes Wi-Fi support for the 
 modules and Bluetooth support only for the 1DX M.2 module. Additional Bluetooth support is 
 scheduled for a coming release as well as support for the 1MW and 1LV M.2 modules. Exact 
 release date is TBD. 
+
+KurtE documents and details on T_4.x, T_MM and SDRAM DevBoards
+
+https://github.com/KurtE/TeensyDocuments
