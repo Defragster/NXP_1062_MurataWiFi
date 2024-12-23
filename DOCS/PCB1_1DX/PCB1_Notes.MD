@@ -14,6 +14,8 @@ Murata NXP i.MX Eval Platforms
 
 https://www.murata.com/products/connectivitymodule/wi-fi-bluetooth/overview/nxp-imx
 
+https://community.murata.com/s/question/0D55F00009FlcXhSAJ/murata-wifibluetooth-for-imx-documentation-release-december-2024
+
 https://www.mouser.com/new/murata/ea-nxp-wifi-bluetooth-i-mx/
 
 There is a evkmimxrt1060_wiced_ble_4343W demo in RT1060 SDK2.7.0. The demo configures the wifi driver to use STA mode and
