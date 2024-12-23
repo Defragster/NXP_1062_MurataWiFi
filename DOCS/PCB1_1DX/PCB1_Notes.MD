@@ -12,6 +12,8 @@ Need to find one that is closest workalike to the 1DX
 
 Murata NXP i.MX Eval Platforms
 
+https://www.murata.com/products/connectivitymodule/wi-fi-bluetooth/overview/nxp-imx
+
 https://www.mouser.com/new/murata/ea-nxp-wifi-bluetooth-i-mx/
 
 There is a evkmimxrt1060_wiced_ble_4343W demo in RT1060 SDK2.7.0. The demo configures the wifi driver to use STA mode and
