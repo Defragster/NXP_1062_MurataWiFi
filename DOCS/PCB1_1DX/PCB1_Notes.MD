@@ -30,7 +30,9 @@ KurtE documents and details on T_4.x, T_MM and SDRAM DevBoards
 https://github.com/KurtE/TeensyDocuments
 
 From NXP Community - 'current' SDK has support for these OTHER WiFi chips:
+
    the following examples from the MCUXpresso 2.10.0 SDK for i.MX RT 1060 are supported by Murata modules Type 1XK, Type 1ZM and Type 2DS.
    evkmimxrt1060_wifi_cert: Provides CLI access to common and advanced Wi-Fi certification test operations.
    evkmimxrt1060_wifi_cli: Provides CLI access to common Wi-Fi operations, including throughput measurements.
+
 So that doesn't include the above noted 'older' SDK 2.7.0 that has the 1DX
