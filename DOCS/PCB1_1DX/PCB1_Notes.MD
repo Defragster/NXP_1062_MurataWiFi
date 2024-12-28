@@ -1,5 +1,6 @@
 1DX uses the CYW4343W :: Same as in Arduino GIGA
 
+https://www.murata.com/en-us/products/connectivitymodule/wi-fi-bluetooth/overview/lineup/type1dx
 
 while 1YN uses CYW43439 > This is the other chip on hand for the post GIGA recommended chip
 
