@@ -1,5 +1,6 @@
 1DX uses the CYW4343W :: Same as in Arduino GIGA
 
+https://www.murata.com/en-us/products/connectivitymodule/wi-fi-bluetooth/overview/lineup/type1dx
 
 while 1YN uses CYW43439 > This is the other chip on hand for the post GIGA recommended chip
 
@@ -39,4 +40,6 @@ From NXP Community - 'current' SDK has support for these OTHER WiFi chips:
    evkmimxrt1060_wifi_cert: Provides CLI access to common and advanced Wi-Fi certification test operations.
    evkmimxrt1060_wifi_cli: Provides CLI access to common Wi-Fi operations, including throughput measurements.
 
-So that doesn't include the above noted 'older' SDK 2.7.0 that has the 1DX
+So that doesn't include the above noted 'older' SDK 2.7.0 that has the 1DX : 2.7 and 2.8 SDK found and built
+
+MCU-Link Debug Probe https://www.nxp.com/design/design-center/software/development-software/mcuxpresso-software-and-tools-/mcu-link-debug-probe:MCU-LINK
