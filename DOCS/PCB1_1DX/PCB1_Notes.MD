@@ -43,3 +43,6 @@ From NXP Community - 'current' SDK has support for these OTHER WiFi chips:
 So that doesn't include the above noted 'older' SDK 2.7.0 that has the 1DX : 2.7 and 2.8 SDK found and built
 
 MCU-Link Debug Probe https://www.nxp.com/design/design-center/software/development-software/mcuxpresso-software-and-tools-/mcu-link-debug-probe:MCU-LINK
+
+
+Wi-Fi®/Bluetooth®    The GIGA R1 WiFi comes with a Murata LBEE5KL1DX-883 radio module for Wi-Fi/Bluetooth® communication.
