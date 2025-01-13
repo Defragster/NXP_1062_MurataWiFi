@@ -50,3 +50,6 @@ Wi-Fi®/Bluetooth®    The GIGA R1 WiFi comes with a Murata LBEE5KL1DX-883 radio
 Wi-Fi® on the GIGA R1 WiFi is supported via the WiFi library. This library is included in the core, so it is automatically installed when installing the Board Package.
 
 To use the Wi-Fi® features on this board, please refer to the GIGA R1 WiFi Network Examples guide.
+
+
+Wi-Fi Host Driver (WHD) https://github.com/Infineon/wifi-host-driver 
