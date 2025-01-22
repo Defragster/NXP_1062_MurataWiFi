@@ -1,0 +1,56 @@
+Press anykey to continue                                                                                       
+                                                                                                               
+                                                                                                               
+CYW4343W Testing...SdioCard::begin: 1                                                                          
+
+================================================================
+cardCommand(81a0000, 1aa) error return false
+m_psdhc->CMD_RSP0 = 0x0000
+
+m_psdhc->CMD_RSP1 = 0x0000
+
+m_psdhc->CMD_RSP2 = 0x0000
+
+m_psdhc->CMD_RSP3 = 0x0000
+
+================================================================
+cardCommand(81a0000, 1aa) error isBusyCommandInhibit)
+
+m_psdhc->CMD_RSP0 = 0x0000
+
+m_psdhc->CMD_RSP1 = 0x0000
+
+m_psdhc->CMD_RSP2 = 0x0000
+
+m_psdhc->CMD_RSP3 = 0x0000
+
+================================================================
+cardCommand(81a0000, 1aa) error isBusyCommandInhibit)
+
+m_psdhc->CMD_RSP0 = 0x0000
+
+m_psdhc->CMD_RSP1 = 0x0000
+
+m_psdhc->CMD_RSP2 = 0x0000
+
+m_psdhc->CMD_RSP3 = 0x0000
+cardCommand(d1a0000, 0) error isBusyCommandInhibit)
+
+LINE: 944
+BLKATTR 10000
+XFERTYP 81A0000 CMD8 TYP0
+PRSSTAT FF888089 SDOFF SDSTB CIHB
+PROCTL 8800020 EMODE2 DWT0
+IRQSTAT 0
+m_irqstat 18000
+cardCommand(d1a0000, 0) error isBusyCommandInhibit)
+
+LINE: 944
+BLKATTR 10000
+XFERTYP 81A0000 CMD8 TYP0
+PRSSTAT FF888089 SDOFF SDSTB CIHB
+PROCTL 8800020 EMODE2 DWT0
+IRQSTAT 0
+m_irqstat 18000
+initialization failed! 
+Press anykey to continue
